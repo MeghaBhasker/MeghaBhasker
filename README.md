@@ -48,6 +48,20 @@
 
 ---
 
+### 🤖 [PM Spec Generator](https://github.com/MeghaBhasker/pm-spec-generator)
+> AI-powered functional spec generator — describe a feature, get an engineering-ready spec
+
+- Generates user stories, acceptance criteria (Given/When/Then), edge cases & QA scenarios
+- Configurable by product type, primary user, and sections — copy to markdown in one click
+- Built with Next.js 14 App Router + Anthropic Claude API, deployed on Vercel
+
+![Next.js](https://img.shields.io/badge/Next.js-EEEDFE?style=flat&color=EEEDFE)
+![Claude API](https://img.shields.io/badge/Claude_API-E1F5EE?style=flat&color=E1F5EE)
+![Vercel](https://img.shields.io/badge/Vercel-EEEDFE?style=flat&color=EEEDFE)
+![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat&color=E6F1FB)
+
+---
+
 ### 🌍 Buildings API Platform *(EarthDefine)*
 > Re-architected core geocoder with an automated 8-strategy fallback engine
 
